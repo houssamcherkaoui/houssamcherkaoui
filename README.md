@@ -1,1 +1,124 @@
-<div align="center" width="50"> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> <h2>👋 Salut, je suis Houssam Cherkaoui</h2> <p>Développeur Full Stack & Fondateur de Creative Media :computer:</p> <h3>📧 Contact :</h3> <p align="center"> <a href="mailto:houssamcherkaoui35@gmail.com"> <img src="https://img.shields.io/badge/Email-houssamcherkaoui35@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" alt="Email"/> </a> </p> <details> <summary>🎵 Busy coding & Vibing to:</summary> [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) </details> ![Profile Views](https://komarev.com/ghpvc/?username=HoussamCherkaoui&style=flat&color=orange&label=PROFILE+VIEWS) <hr> <h3>🛠 Technologies et outils :</h3> <p align="center"> <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/AI-00FFAB?style=flat&logo=OpenAI&logoColor=white" alt="AI"></a> </p> <h3>💡 À propos de moi :</h3> <p align="center"> <img src="https://media.giphy.com/media/3o7TKtd27c1c8vGAdG/giphy.gif" alt="AI working" width="60"/><br> 🤖 J’utilise activement l’IA pour créer, automatiser et optimiser mes projets numériques </p> // tools_I_use organized class About extends Me { const myTools = { "ProgramingLanguages" : { "Python", "Javascript", "Java", "PHP" }, "OtherLanguages" : { "HTML", "CSS", "API", "Json", "Markdown" }, "Database" : { "MY SQL", "SQL" }, "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" }, "Platforms" : { "Mac", "GNU/Linux", "Windows" }, "OtherTools" : { "Git", "Figma", "Photoshop", } }; } <div align="center" > <a href="https://github.com/SP-XD"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <hr> <h3>🌐 Me trouver sur les réseaux :</h3> <a href="https://www.instagram.com/creative_mediapro/" target="_blank"> <img src="https://img.shields.io/badge/-CreativeMediaPro-D7008A?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Creative Media"/> </a> <a href="https://www.instagram.com/houssam_cher_/" target="_blank"> <img src="https://img.shields.io/badge/-HoussamCher-833AB4?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Houssam"/> </a> <a href="https://www.facebook.com/profile.php?id=100032691961678&locale=fr_FR" target="_blank"> <img src="https://img.shields.io/badge/-HoussamCherkaoui-1877F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://www.linkedin.com/in/houssam-cherkaoui/" target="_blank"> <img src="https://img.shields.io/badge/-HoussamCherkaoui-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/> </a> <h3>💻 Fun facts & Infos :</h3> - Actuellement en apprentissage de nouvelles technologies Web3 et Cloud - J’adore créer du contenu digital, des sites web et des stratégies marketing - Banging your head against a wall burns 150 calories 🤯 **Code Cycle**<br> <hr></hr> **Code Cycle**<br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br> <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="40%"/--> </div> detaille moi ce code etap etap
+<div align="center">
+
+  <!-- HEADER GIFS -->
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+  <br><br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+
+  <!-- INTRO -->
+  <h2>👋 Salut, je suis Houssam Cherkaoui</h2>
+  <p>
+    Développeur Full Stack & Fondateur de <strong>Creative Media</strong> 💻<br>
+    Passionné par le Web, l’IA et la création de solutions digitales modernes
+  </p>
+
+  <!-- CONTACT -->
+  <h3>📧 Contact</h3>
+  <a href="mailto:houssamcherkaoui35@gmail.com">
+    <img src="https://img.shields.io/badge/Email-houssamcherkaoui35@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" />
+  </a>
+
+  <br><br>
+
+  <!-- SPOTIFY -->
+  <details>
+    <summary>🎵 Busy coding & vibing to</summary>
+    <br>
+    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" />
+  </details>
+
+  <br>
+
+  <!-- PROFILE VIEWS -->
+  <img src="https://komarev.com/ghpvc/?username=HoussamCherkaoui&label=PROFILE+VIEWS&color=orange&style=flat"/>
+
+  <hr>
+
+  <!-- SKILLS -->
+  <h3>🛠 Technologies & Outils</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/AI-00FFAB?style=flat&logo=openai&logoColor=white"/>
+  </p>
+
+  <hr>
+
+  <!-- ABOUT -->
+  <h3>💡 À propos de moi</h3>
+  <img src="https://media.giphy.com/media/3o7TKtd27c1c8vGAdG/giphy.gif" width="60"/>
+
+  <p>
+    🤖 J’utilise activement l’intelligence artificielle pour créer,<br>
+    automatiser et optimiser des projets web et marketing.<br><br>
+    🚀 Objectif : combiner développement, IA et business digital.
+  </p>
+
+  <hr>
+
+  <!-- DEV STYLE (DECORATIVE CODE) -->
+  <pre>
+class About extends Developer {
+  tools = {
+    programming: ["Python", "JavaScript", "PHP", "Java"],
+    web: ["HTML", "CSS", "API", "JSON", "Markdown"],
+    database: ["MySQL", "SQL"],
+    editors: ["VS Code", "Xcode", "Sublime", "Neovim"],
+    platforms: ["Windows", "Linux", "MacOS"],
+    others: ["Git", "Figma", "Photoshop", "AI"]
+  }
+}
+  </pre>
+
+ 
+
+  <!-- SOCIAL -->
+  <h3>🌐 Me retrouver</h3>
+
+  <a href="https://www.instagram.com/creative_mediapro/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-CreativeMediaPro-D7008A?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/houssam_cher_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-HoussamCher-833AB4?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100032691961678" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-HoussamCherkaoui-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/houssam-cherkaoui/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-HoussamCherkaoui-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <hr>
+
+  <!-- FUN -->
+  <h3>😄 Fun Facts</h3>
+  <p>
+    • Toujours en apprentissage (Web, Cloud, IA)<br>
+    • J’adore créer du contenu digital & branding<br>
+    • Debugger = sport mental intensif 🧠🔥
+  </p>
+
+  <br>
+
+  <!-- CODE CYCLE -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
+
+</div>
